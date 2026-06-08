@@ -160,7 +160,7 @@ def main():
                     uppdate_user()
                 case 4:
                     delete_user()
-                case 5: 
+                
                 case 6:
                     thong_ke()
                 case 7:
@@ -169,3 +169,5 @@ def main():
                 case _:
                     print("Dữ liệu không hợp lệ")
         print("Dữ liệu không hợp lệ")
+    
+main()
